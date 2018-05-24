@@ -1,2 +1,171 @@
 #EXTM3U
-#EXTINF:0,http://rd.videos.sapo.cv/o7sf94LpzBDc94GY3N4i
+#EXTINF:-1,PT: RTP 1
+http://leaderpro.pt:25461/live/Junia/Junia/440.ts
+#EXTINF:-1,PT: RTP 1 LOW
+http://leaderpro.pt:25461/live/Junia/Junia/5304.ts
+#EXTINF:-1,PT: RTP 1 (Alt.)
+http://leaderpro.pt:25461/live/Junia/Junia/5303.ts
+#EXTINF:-1,PT: RTP 1 HD
+http://leaderpro.pt:25461/live/Junia/Junia/439.ts
+#EXTINF:-1,PT: RTP1 FULL HD
+http://leaderpro.pt:25461/live/Junia/Junia/438.ts
+#EXTINF:-1,PT: RTP Internacional
+http://leaderpro.pt:25461/live/Junia/Junia/15211.ts
+#EXTINF:-1,PT: RTP 2
+http://leaderpro.pt:25461/live/Junia/Junia/437.ts
+#EXTINF:-1,PT: RTP 2 HD
+http://leaderpro.pt:25461/live/Junia/Junia/436.ts
+#EXTINF:-1,PT: RTP 2 FULL HD
+http://leaderpro.pt:25461/live/Junia/Junia/435.ts
+#EXTINF:-1,PT: SIC
+http://leaderpro.pt:25461/live/Junia/Junia/433.ts
+#EXTINF:-1,PT: SIC SD
+http://leaderpro.pt:25461/live/Junia/Junia/5404.ts
+#EXTINF:-1,PT: SIC LOW
+http://leaderpro.pt:25461/live/Junia/Junia/5306.ts
+#EXTINF:-1,PT: SIC HD
+http://leaderpro.pt:25461/live/Junia/Junia/432.ts
+#EXTINF:-1,PT: SIC FULL HD
+http://leaderpro.pt:25461/live/Junia/Junia/431.ts
+#EXTINF:-1,PT: SIC Internacional
+http://leaderpro.pt:25461/live/Junia/Junia/15209.ts
+#EXTINF:-1,PT: TVI
+http://leaderpro.pt:25461/live/Junia/Junia/5393.ts
+#EXTINF:-1,PT: TVI SD
+http://leaderpro.pt:25461/live/Junia/Junia/5307.ts
+#EXTINF:-1,PT: TVI LOW
+http://leaderpro.pt:25461/live/Junia/Junia/5308.ts
+#EXTINF:-1,PT: TVI HD
+http://leaderpro.pt:25461/live/Junia/Junia/429.ts
+#EXTINF:-1,PT: TVI FULL HD
+http://leaderpro.pt:25461/live/Junia/Junia/428.ts
+#EXTINF:-1,PT: TVI Internacional
+http://leaderpro.pt:25461/live/Junia/Junia/15210.ts
+#EXTINF:-1,PT: SIC NOTICIAS
+http://leaderpro.pt:25461/live/Junia/Junia/427.ts
+#EXTINF:-1,PT: SIC NOTICIAS HD
+http://leaderpro.pt:25461/live/Junia/Junia/426.ts
+#EXTINF:-1,PT: TVI 24
+http://leaderpro.pt:25461/live/Junia/Junia/425.ts
+#EXTINF:-1,PT: TVI 24 LOW
+http://leaderpro.pt:25461/live/Junia/Junia/11731.ts
+#EXTINF:-1,PT: TVI 24  HD
+http://leaderpro.pt:25461/live/Junia/Junia/424.ts
+#EXTINF:-1,PT: RTP 3 SD
+http://leaderpro.pt:25461/live/Junia/Junia/5323.ts
+#EXTINF:-1,PT: RTP 3 HD
+http://leaderpro.pt:25461/live/Junia/Junia/434.ts
+#EXTINF:-1,PT: RTP 3 Low
+http://leaderpro.pt:25461/live/Junia/Junia/16779.ts
+#EXTINF:-1,PT: CMTV
+http://leaderpro.pt:25461/live/Junia/Junia/423.ts
+#EXTINF:-1,PT: CMTV LOW
+http://leaderpro.pt:25461/live/Junia/Junia/5315.ts
+#EXTINF:-1,PT: CMTV HD
+http://leaderpro.pt:25461/live/Junia/Junia/14354.ts
+#EXTINF:-1,PT: CMTV FHD
+http://leaderpro.pt:25461/live/Junia/Junia/422.ts
+#EXTINF:-1,PT: LOCALVISAO TV HD
+http://leaderpro.pt:25461/live/Junia/Junia/400.ts
+#EXTINF:-1,PT: BBC WORLD NEWS HD
+http://leaderpro.pt:25461/live/Junia/Junia/421.ts
+#EXTINF:-1,PT: Bloomberg
+http://leaderpro.pt:25461/live/Junia/Junia/298.ts
+#EXTINF:-1,PT: CNN
+http://leaderpro.pt:25461/live/Junia/Junia/420.ts
+#EXTINF:-1,PT: SKY NEWS
+http://leaderpro.pt:25461/live/Junia/Junia/419.ts
+#EXTINF:-1,PT: TVE 24h
+http://leaderpro.pt:25461/live/Junia/Junia/311.ts
+#EXTINF:-1,PT: SIC RADICAL
+http://leaderpro.pt:25461/live/Junia/Junia/409.ts
+#EXTINF:-1,PT: SIC RADICAL HD
+http://leaderpro.pt:25461/live/Junia/Junia/408.ts
+#EXTINF:-1,PT: SIC CARAS
+http://leaderpro.pt:25461/live/Junia/Junia/412.ts
+#EXTINF:-1,PT: SIC CARAS HD
+http://leaderpro.pt:25461/live/Junia/Junia/411.ts
+#EXTINF:-1,PT: SIC MULHER
+http://leaderpro.pt:25461/live/Junia/Junia/410.ts
+#EXTINF:-1,PT: TVI FICÇÃO
+http://leaderpro.pt:25461/live/Junia/Junia/407.ts
+#EXTINF:-1,PT: TVI REALITY
+http://leaderpro.pt:25461/live/Junia/Junia/406.ts
+#EXTINF:-1,PT: AR TV
+http://leaderpro.pt:25461/live/Junia/Junia/15563.ts
+#EXTINF:-1,PT: RTP Açores
+http://leaderpro.pt:25461/live/Junia/Junia/306.ts
+#EXTINF:-1,PT: RTP Africa
+http://leaderpro.pt:25461/live/Junia/Junia/303.ts
+#EXTINF:-1,PT: RTP Madeira
+http://leaderpro.pt:25461/live/Junia/Junia/305.ts
+#EXTINF:-1,PT: PORTO CANAL
+http://leaderpro.pt:25461/live/Junia/Junia/414.ts
+#EXTINF:-1,PT: RTP Memoria
+http://leaderpro.pt:25461/live/Junia/Junia/304.ts
+#EXTINF:-1,PT: BBC Entertainment
+http://leaderpro.pt:25461/live/Junia/Junia/297.ts
+#EXTINF:-1,PT: GLOBO
+http://leaderpro.pt:25461/live/Junia/Junia/319.ts
+#EXTINF:-1,PT: GLOBO PREMIUM
+http://leaderpro.pt:25461/live/Junia/Junia/318.ts
+#EXTINF:-1,PT: TV RECORD HD
+http://leaderpro.pt:25461/live/Junia/Junia/317.ts
+#EXTINF:-1,PT: CANAL Q
+http://leaderpro.pt:25461/live/Junia/Junia/290.ts
+#EXTINF:-1,PT: CBS Reality
+http://leaderpro.pt:25461/live/Junia/Junia/296.ts
+#EXTINF:-1,PT: TV Series
+http://leaderpro.pt:25461/live/Junia/Junia/376.ts
+#EXTINF:-1,PT: TV SERIES HD
+http://leaderpro.pt:25461/live/Junia/Junia/375.ts
+#EXTINF:-1,PT: HOLLYWOOD
+http://leaderpro.pt:25461/live/Junia/Junia/386.ts
+#EXTINF:-1,PT: HOLLYWOOD HD
+http://leaderpro.pt:25461/live/Junia/Junia/385.ts
+#EXTINF:-1,PT: CINEMUNDO
+http://leaderpro.pt:25461/live/Junia/Junia/370.ts
+#EXTINF:-1,PT: CINEMUNDO HD
+http://leaderpro.pt:25461/live/Junia/Junia/369.ts
+#EXTINF:-1,PT: AMC
+http://leaderpro.pt:25461/live/Junia/Junia/372.ts
+#EXTINF:-1,PT: AMC HD
+http://leaderpro.pt:25461/live/Junia/Junia/371.ts
+#EXTINF:-1,PT: SYfY
+http://leaderpro.pt:25461/live/Junia/Junia/374.ts
+#EXTINF:-1,PT: SYFY HD
+http://leaderpro.pt:25461/live/Junia/Junia/373.ts
+#EXTINF:-1,PT: FOX
+http://leaderpro.pt:25461/live/Junia/Junia/9736.ts
+#EXTINF:-1,PT: FOX Low
+http://leaderpro.pt:25461/live/Junia/Junia/16781.ts
+#EXTINF:-1,PT: FOX HD
+http://leaderpro.pt:25461/live/Junia/Junia/363.ts
+#EXTINF:-1,PT: FOX MOVIES
+http://leaderpro.pt:25461/live/Junia/Junia/360.ts
+#EXTINF:-1,PT: FOX MOVIES HD
+http://leaderpro.pt:25461/live/Junia/Junia/359.ts
+#EXTINF:-1,PT: FOX COMEDY
+http://leaderpro.pt:25461/live/Junia/Junia/358.ts
+#EXTINF:-1,PT: FOX COMEDY HD
+http://leaderpro.pt:25461/live/Junia/Junia/357.ts
+#EXTINF:-1,PT: FOX CRIME HD
+http://leaderpro.pt:25461/live/Junia/Junia/361.ts
+#EXTINF:-1,PT: FOX LIFE HD
+http://leaderpro.pt:25461/live/Junia/Junia/362.ts
+#EXTINF:-1,PT: AXN
+http://leaderpro.pt:25461/live/Junia/Junia/367.ts
+#EXTINF:-1,PT: AXN Low
+http://leaderpro.pt:25461/live/Junia/Junia/16780.ts
+#EXTINF:-1,PT: AXN HD
+http://leaderpro.pt:25461/live/Junia/Junia/366.ts
+#EXTINF:-1,PT: AXN BLACK HD
+http://leaderpro.pt:25461/live/Junia/Junia/364.ts
+#EXTINF:-1,PT: AXN WHITE HD
+http://leaderpro.pt:25461/live/Junia/Junia/365.ts
+#EXTINF:-1,PT: SIC K
+http://leaderpro.pt:25461/live/Junia/Junia/388.ts
+#EXTINF:-1,PT: TLC
+http://leaderpro.pt:25461/live/Junia/Junia/285.ts
+#EXTINF:-1,PT: CRIME INVESTIGATION
+http://leaderpro.pt:25461/live/Junia/Junia/368.ts
